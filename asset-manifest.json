@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-bitcoin-value-tracker/static/css/main.07a718d4.chunk.css",
+    "main.js": "/react-bitcoin-value-tracker/static/js/main.563eaa35.chunk.js",
+    "main.js.map": "/react-bitcoin-value-tracker/static/js/main.563eaa35.chunk.js.map",
+    "runtime-main.js": "/react-bitcoin-value-tracker/static/js/runtime-main.7291ca61.js",
+    "runtime-main.js.map": "/react-bitcoin-value-tracker/static/js/runtime-main.7291ca61.js.map",
+    "static/css/2.027e9bb2.chunk.css": "/react-bitcoin-value-tracker/static/css/2.027e9bb2.chunk.css",
+    "static/js/2.7c64d496.chunk.js": "/react-bitcoin-value-tracker/static/js/2.7c64d496.chunk.js",
+    "static/js/2.7c64d496.chunk.js.map": "/react-bitcoin-value-tracker/static/js/2.7c64d496.chunk.js.map",
+    "index.html": "/react-bitcoin-value-tracker/index.html",
+    "precache-manifest.8a873bccd0e10803db59f0b279cc2ff7.js": "/react-bitcoin-value-tracker/precache-manifest.8a873bccd0e10803db59f0b279cc2ff7.js",
+    "service-worker.js": "/react-bitcoin-value-tracker/service-worker.js",
+    "static/css/2.027e9bb2.chunk.css.map": "/react-bitcoin-value-tracker/static/css/2.027e9bb2.chunk.css.map",
+    "static/css/main.07a718d4.chunk.css.map": "/react-bitcoin-value-tracker/static/css/main.07a718d4.chunk.css.map",
+    "static/js/2.7c64d496.chunk.js.LICENSE.txt": "/react-bitcoin-value-tracker/static/js/2.7c64d496.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7291ca61.js",
+    "static/css/2.027e9bb2.chunk.css",
+    "static/js/2.7c64d496.chunk.js",
+    "static/css/main.07a718d4.chunk.css",
+    "static/js/main.563eaa35.chunk.js"
+  ]
+}
