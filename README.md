@@ -1,4 +1,3 @@
-# react-bitcoin-value-tracker
-Created with CodeSandbox
+# React-Bitcoin-Value-Tracker
 
-Demo: https://sanjaypun-jsx.github.io/react-bitcoin-value-tracker/
+[Demo](https://sanjaypun-jsx.github.io/react-bitcoin-value-tracker/)
